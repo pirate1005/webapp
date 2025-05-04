@@ -1,0 +1,14 @@
+body{
+  background: radial-gradient(circle, rgb(144, 0, 255), rgb(255, 0, 0));
+  color: #fff;
+}
+
+.cards__container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.heading{
+  text-align: center;
+}
